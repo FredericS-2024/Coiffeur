@@ -12014,8 +12014,14 @@ p {
   position: relative;
 }
 
+h1, .h1 {
+  font-family: "Hind Madurai", serif;
+  font-size: 50px;
+  font-weight: 700;
+}
+
 .Hero-Scene-Content {
-  height: 300px;
+  height: 900px;
   display: flex;
   flex-direction: column;
   justify-content: center;
