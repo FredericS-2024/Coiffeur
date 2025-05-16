@@ -45,3 +45,4 @@ Thumbs.db
 /site/.astro
 /site/public
 vendor
+/vendor/
