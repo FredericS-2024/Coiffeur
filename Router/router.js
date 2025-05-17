@@ -1,4 +1,4 @@
-import Route from "./Route.js";
+import Route from "/Route.js";
 import { allRoutes, websiteName } from "/allroutes.js";
 
 // Création d'une route pour la page 404 (page introuvable)
