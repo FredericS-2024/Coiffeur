@@ -46,3 +46,4 @@ Thumbs.db
 /site/public
 vendor
 /vendor/
+node_modules
